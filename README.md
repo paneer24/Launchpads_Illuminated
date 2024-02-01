@@ -10,14 +10,7 @@ In this project, I have utilized Folium to map the locations of SpaceX launch si
 
 ## Project Structure
 
-- `data/`: Contains data files.
-- `notebooks/`: Jupyter notebooks for data analysis.
-- `scripts/`: Python scripts for specific tasks.
-- `results/`: Output and visualizations.
-
-## How to Run
-
-1. Install the required dependencies: `pip install -r requirements.txt`
-2. Execute the Jupyter notebooks or Python scripts in the `notebooks/` and `scripts/` directories.
+- `data/`: The data is from spacex_launch_geo.csv
+- `notebooks/`: I have attached  Jupyter notebooks for data analysis.
 
 Feel free to explore the code and reach out if you have any questions or suggestions.
